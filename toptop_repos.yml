@@ -1,0 +1,13 @@
+# toptop_repos.yml
+
+repositories:
+  repos/toptop:
+    type: git
+    url: git@github.com:MYNAME/toptop.git
+    version: main
+  repos/create-toptop:
+    url: git@github.com:MYNAME/create-toptop.git
+    version: main
+  repos/toptop_vag:
+    url: git@github.com:MYNAME/toptop_vag.git
+    version: main
