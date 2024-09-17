@@ -1,13 +1,19 @@
 # toptop_repos.yml
 
 repositories:
-  repos/toptop:
-    type: git
-    url: git@github.com:MYNAME/toptop.git
-    version: main
-  repos/create-toptop:
-    url: git@github.com:MYNAME/create-toptop.git
-    version: main
   repos/toptop_vag:
-    url: git@github.com:MYNAME/toptop_vag.git
+    type: git
+    url: git@github.com:charlyoleg2/toptop_vag.git
+    version: main
+  repos/vag_vag:
+    url: git@github.com:charlyoleg2/vag_vag.git
+    version: main
+  repos/parametrix_vag:
+    url: git@github.com:charlyoleg2/parametrix_vag.git
+    version: main
+  repos/heliomir_vag:
+    url: git@codeberg.org:charlyoleg/heliomir_vag.git
+    version: main
+  repos/archive_vag:
+    url: git@github.com:charlyoleg2/archive_vag.git
     version: main

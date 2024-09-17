@@ -5,10 +5,10 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MYNAME/toptop_vag.git"
+		"url": "git+https://github.com/charlyoleg/toptop_vag.git"
 	},
-	"homepage": "https://github.com/MYNAME/toptop_vag#readme",
-	"author": "MYNAME",
+	"homepage": "https://github.com/charlyoleg/toptop_vag#readme",
+	"author": "charlyoleg",
 	"license": "ISC",
 	"keywords": [
 		"toptop",
