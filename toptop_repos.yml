@@ -5,8 +5,8 @@ repositories:
     type: git
     url: git@github.com:charlyoleg2/toptop_vag.git
     version: main
-  repos/vag_vag:
-    url: git@github.com:charlyoleg2/vag_vag.git
+  repos/miniTools_vag:
+    url: git@github.com:charlyoleg2/miniTools_vag.git
     version: main
   repos/parametrix_vag:
     url: git@github.com:charlyoleg2/parametrix_vag.git
