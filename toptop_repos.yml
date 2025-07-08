@@ -11,6 +11,9 @@ repositories:
   repos/parametrix_vag:
     url: git@github.com:charlyoleg2/parametrix_vag.git
     version: main
+  repos/systemix_vag:
+    url: git@github.com:charlyoleg2/systemix_vag.git
+    version: main
   repos/heliomir_vag:
     url: git@codeberg.org:charlyoleg/heliomir_vag.git
     version: main
